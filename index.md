@@ -10,9 +10,10 @@ I am an **accidental engineer** with almost 12 years of industry experience in 
 
 I took a break from my active job to explore new possibilities. I have resumed working with **HYCU**.
 
-My appetite to learn new technologies, desire to prove that my lack of formal education isn't a hurdle, and knack for working out of my comfort zone have helped me mature and gain experience in a short span of time. I never planned things but kept accepting challenges and following the concept of dynamic passion (passions are not static as they also keep evolving, it's critical to keep assessing the depth of the waters).
+My appetite to learn new technologies, desire to prove that my lack of formal education isn't a hurdle, and knack for working out of my comfort zone have helped me mature and gain experience in a short span of time. 
+I never planned things but kept accepting challenges and following the concept of dynamic passion (passions are not static as they also keep evolving, it's critical to keep assessing the depth of the waters).
 
-There are a few key takeaways at the end:
+### There are a few key takeaways at the end:
 
 * * *
 
@@ -21,7 +22,8 @@ There are a few key takeaways at the end:
 - Uncertainty is the way forward, and while uncertainty about the things you want is okay, you must be definite about the things you want to avoid.
     
 
-**In my previous role, my sole aim was:**
+### **In my previous role, my sole aim was:**
+* * *
 
 1. **Uncomplex** **the complexity,** i.e., Nutanix files and File analytics.
 2.  **User experience**: improve the end-user experience with the product at its core and find ways to simplify and make the product intuitive. In the end, simple doesn't mean easy, and the same applies to any enterprise product.
