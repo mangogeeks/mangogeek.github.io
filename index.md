@@ -24,5 +24,5 @@ There are a few key takeaways at the end:
 **In my previous role, my sole aim was:**
 
 1. **Uncomplex** **the complexity,** i.e., Nutanix files and File analytics.
-2. **User experience**: improve the end-user experience with the product at its core and find ways to simplify and make the product intuitive. In the end, simple doesn't mean easy, and the same applies to any enterprise product.
-3\. **Generate** **insights from the data**: -leverage data-driven decision-making (descriptive analysis) to gain insights on product usage patterns and issues (systematic and environmental) and use domain knowledge to solve or engage with the right folks to solve the problem.
+2.  **User experience**: improve the end-user experience with the product at its core and find ways to simplify and make the product intuitive. In the end, simple doesn't mean easy, and the same applies to any enterprise product.
+3.  **Generate** **insights from the data**: -leverage data-driven decision-making (descriptive analysis) to gain insights on product usage patterns and issues (systematic and environmental) and use domain knowledge to solve or engage with the right folks to solve the problem.
