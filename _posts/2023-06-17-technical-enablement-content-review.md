@@ -1,8 +1,9 @@
-# technical-enablement-content-review
-
+---
+layout: post 
+title: "Technical Content Layout"
 ---
 
-June 8, 2023 9:00 AM 
+
 
 # Modules Status
 
