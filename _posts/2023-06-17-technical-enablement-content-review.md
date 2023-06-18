@@ -28,7 +28,7 @@ title: "Technical Content Layout"
 - We should ask Audience to go over the documentation to follow the steps.
     - For instance, *“Uploading the HYCU virtual appliance image to a Nutanix AHV cluster”* from the user guide.
     
-    ![Untitled](technical-enablement-content-review%202e7ab9462034425784932b86892cbc03/Untitled.png)
+    ![Untitled](/technical-enablement-content-review%202e7ab9462034425784932b86892cbc03/Untitled.png)
     
 
 <aside>
@@ -38,7 +38,7 @@ title: "Technical Content Layout"
 
 </aside>
 
-![Untitled](technical-enablement-content-review%202e7ab9462034425784932b86892cbc03/Untitled%201.png)
+![Untitled](/technical-enablement-content-review%202e7ab9462034425784932b86892cbc03/Untitled%201.png)
 
 ## **2. Ordering of Key concepts: -**
 
