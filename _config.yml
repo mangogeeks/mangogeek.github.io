@@ -1,6 +1,6 @@
 title: "Mango Geek"
 author: "Piyush"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Piyush Website"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,13 +17,12 @@ show_social : true         # Show site description and social link in the footer
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: Home change, icon: home}
+  - {file: "index.html", title: Home, icon: home}
   - {file: "README.md", title: About me, icon:address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:proyoung.piyush@hotmail.com"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title:Linkedin, icon: linkedin url:"https://www.linkedin.com/in/piyushkrai/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
