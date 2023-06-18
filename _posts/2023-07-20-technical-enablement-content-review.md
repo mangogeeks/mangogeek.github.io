@@ -1,10 +1,7 @@
-
 ---
-title:  "Technical Enablement"
 layout: post
+title:  "Technical Enablement"
 ---
-
-June 8, 2023 9:00 AM 
 
 # Modules Status
 
