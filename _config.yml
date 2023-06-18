@@ -17,7 +17,7 @@ show_social : true         # Show site description and social link in the footer
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "My Profile", url:"https://www.linkedin.com/in/piyushkrai/"}
+  - {title: "My Profile", url: "https://www.linkedin.com/in/piyushkrai/"}
   #- {file: "index.html", title: "Home Change"}
   - {file: blog.md, title: "Blogs"}
 
